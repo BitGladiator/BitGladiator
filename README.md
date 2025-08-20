@@ -4,9 +4,6 @@
 <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Karan%20Sharma&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Cloud%20Architect%20%7C%20MERN%20Specialist&descSize=18&descAlignY=60"/>
 
 <!-- Professional Tagline -->
-<h2 align="center">
-🚀 Full-Stack Developer | ☁️ Cloud Architect | 💻 MERN Specialist
-</h2>
 <p align="center">
 <em>Building Scalable Web Applications • Architecting Cloud Solutions • Turning Ideas Into Digital Reality</em>
 </p>
