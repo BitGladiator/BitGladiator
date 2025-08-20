@@ -4,7 +4,7 @@
 <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Karan%20Sharma&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Cloud%20Architect%20%7C%20MERN%20Specialist&descSize=18&descAlignY=60"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Building+Scalable+Web+Applications;☁️+Architecting+Cloud+Solutions;💻+MERN+Stack+%2B+DevOps+Expert;🌟+Turning+Ideas+Into+Digital+Reality" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=🚀+Building+Scalable+Web+Applications;☁️+Architecting+Cloud+Solutions;💻+MERN+Stack+%2B+DevOps+Expert;🌟+Turning+Ideas+Into+Digital+Reality" alt="Typing Animation" />
 
 <!-- Visitor Counter with Custom Style -->
 <img src="https://komarev.com/ghpvc/?username=BitGladiator&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
@@ -150,12 +150,16 @@ const karan = {
 
 <div align="center">
 
-## 🎵 **Current Vibe**
+## 🎵 **When I'm Coding**
 
 </div>
 
 <div align="center">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31k6fy5u3w4fgnnq2h7lgruhqnta&unique=true" alt="Spotify Recently Played" width="400" />
+
+*"Good code is like good music - it has rhythm, structure, and tells a story"* 🎧
+
+**Currently vibing to:** Lo-fi Hip Hop, Electronic, and Synthwave while coding
+
 </div>
 
 ---
@@ -179,24 +183,30 @@ const karan = {
 
 <div align="center">
 
-## 💭 **Random Dev Quote**
+## 💭 **Developer Wisdom**
 
 </div>
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it&author=Alan%20Kay" alt="Dev Quote"/>
+
+> *"The best way to predict the future is to invent it."* - **Alan Kay**
+
+> *"Code is like humor. When you have to explain it, it's bad."* - **Cory House**
+
+> *"First, solve the problem. Then, write the code."* - **John Johnson**
+
 </div>
 
 ---
 
 <div align="center">
 
-## 🐍 **Contribution Graph**
+## 📈 **Activity Graph**
 
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/BitGladiator/BitGladiator/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BitGladiator&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
