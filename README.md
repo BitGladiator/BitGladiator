@@ -3,8 +3,13 @@
 <!-- Dynamic Header with Gradient Background -->
 <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Karan%20Sharma&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Cloud%20Architect%20%7C%20MERN%20Specialist&descSize=18&descAlignY=60"/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=🚀+Building+Scalable+Web+Applications;☁️+Architecting+Cloud+Solutions;💻+MERN+Stack+%2B+DevOps+Expert;🌟+Turning+Ideas+Into+Digital+Reality" alt="Typing Animation" />
+<!-- Professional Tagline -->
+<h2 align="center">
+🚀 Full-Stack Developer | ☁️ Cloud Architect | 💻 MERN Specialist
+</h2>
+<p align="center">
+<em>Building Scalable Web Applications • Architecting Cloud Solutions • Turning Ideas Into Digital Reality</em>
+</p>
 
 <!-- Visitor Counter with Custom Style -->
 <img src="https://komarev.com/ghpvc/?username=BitGladiator&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
