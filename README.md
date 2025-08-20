@@ -1,66 +1,212 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Karan+Sharma;Frontend+Dev+%7C+MERN+Stack+Enthusiast;Cloud+Deployments+%26+DevOps+Curious;Always+Learning+Something+New+%F0%9F%93%9A" alt="Typing SVG" />
-</h1>
+<div align="center">
 
+<!-- Dynamic Header with Gradient Background -->
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Karan%20Sharma&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Cloud%20Architect%20%7C%20MERN%20Specialist&descSize=18&descAlignY=60"/>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Building+Scalable+Web+Applications;☁️+Architecting+Cloud+Solutions;💻+MERN+Stack+%2B+DevOps+Expert;🌟+Turning+Ideas+Into+Digital+Reality" alt="Typing Animation" />
+
+<!-- Visitor Counter with Custom Style -->
+<img src="https://komarev.com/ghpvc/?username=BitGladiator&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 **About Me**
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 👨‍💻 **Who I Am**
+```typescript
+const karan = {
+    role: "Full-Stack Developer",
+    focus: ["Cloud Computing", "DevOps", "System Design"],
+    technologies: {
+        frontend: ["React", "TypeScript", "Redux"],
+        backend: ["Node.js", "Express", "APIs"],
+        databases: ["MongoDB", "PostgreSQL"],
+        cloud: ["Docker", "Kubernetes", "CI/CD"]
+    },
+    currentGoal: "Building scalable cloud-native applications",
+    motto: "Code with logic. Deploy with passion. 🚀"
+};
+```
+
+</td>
+<td width="50%">
+
+### 🌟 **Current Focus**
+- 🔥 **Mastering Cloud Architecture** - AWS, Docker, K8s
+- ⚡ **Performance Optimization** - Scaling applications
+- 🛠️ **DevOps Integration** - CI/CD pipelines
+- 📚 **Continuous Learning** - Latest tech trends
+- 🎯 **Open Source Contributions** - Community building
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🔧 **Technology Arsenal**
+
+</div>
+
+### **💻 Programming Languages**
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BitGladiator&label=Visitors&color=6C63FF&style=flat" alt="visitor badge"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,sql" />
+</p>
+
+### **🎨 Frontend Development**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,redux,nextjs,html,css,tailwind,bootstrap" />
+</p>
+
+### **⚙️ Backend & Database**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis,graphql" />
+</p>
+
+### **☁️ DevOps & Cloud**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,nginx,linux,ubuntu" />
+</p>
+
+### **🛠️ Development Tools**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm" />
 </p>
 
 ---
 
-### 🚀 About Me
+<div align="center">
 
-- 🧑‍💻 Full-stack developer (MERN + DevOps tools)
-- ☁️ Currently focused on **cloud computing & cloud deployment**
-- 💡 Love building clean, responsive, real-world projects
-- 🕹️ When not coding, I'm either **reading** or **gaming**
-- 🤝 Let's connect: [LinkedIn →](https://www.linkedin.com/in/karancodemind/)
+## 📊 **GitHub Analytics**
 
----
+</div>
 
-### 🧰 Tech Stack
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BitGladiator&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitGladiator&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
+</div>
 
-#### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 🧱 Frontend & Backend
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-#### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### ⚙️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=BitGladiator&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+</div>
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BitGladiator&show_icons=true&theme=radical&hide_title=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitGladiator&layout=compact&theme=radical" height="180"/>
-</p>
+## 🏆 **Achievement Showcase**
 
----
+</div>
 
-### 📫 Let’s Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/karancodemind/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Karan%20Sharma-blue?style=for-the-badge&logo=linkedin"></a>
-</p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=BitGladiator&theme=tokyonight&no-frame=true&row=1&column=7&margin-h=15&margin-w=5" alt="GitHub Trophies"/>
+</div>
 
 ---
 
-<p align="center"><i>“Code with logic. Deploy with passion.”</i> 🚀</p>
+<div align="center">
+
+## 🌟 **Featured Projects**
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🚀 **Full-Stack Applications**
+- **E-Commerce Platform** - MERN + Stripe Integration
+- **Real-Time Chat App** - Socket.io + JWT Auth
+- **Task Management System** - React + Node.js + MongoDB
+- **Social Media Dashboard** - Redux + Express + PostgreSQL
+
+</td>
+<td width="50%">
+
+### ☁️ **Cloud & DevOps Projects**
+- **Microservices Architecture** - Docker + Kubernetes
+- **CI/CD Pipeline Setup** - Jenkins + GitHub Actions
+- **Cloud Deployment** - AWS EC2 + Load Balancing
+- **Container Orchestration** - Docker Swarm + Monitoring
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🎵 **Current Vibe**
+
+</div>
+
+<div align="center">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31k6fy5u3w4fgnnq2h7lgruhqnta&unique=true" alt="Spotify Recently Played" width="400" />
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 **Let's Connect & Collaborate**
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karancodemind/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 **Random Dev Quote**
+
+</div>
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it&author=Alan%20Kay" alt="Dev Quote"/>
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 **Contribution Graph**
+
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/BitGladiator/BitGladiator/output/github-contribution-grid-snake-dark.svg" alt="Snake Game"/>
+</div>
+
+---
+
+<div align="center">
+
+### 💙 **Thanks for visiting my profile!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+
+**"Building the future, one commit at a time."** 🚀✨
+
+</div>
