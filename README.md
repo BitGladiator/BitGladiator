@@ -17,7 +17,7 @@
 
 <div align="center">
 
-## 🎯 **About Me**
+## **About Me**
 
 </div>
 
@@ -25,7 +25,7 @@
 <tr>
 <td width="50%">
 
-### 👨‍💻 **Who I Am**
+### **Who I Am**
 ```typescript
 const karan = {
     role: "Full-Stack Developer",
@@ -37,19 +37,19 @@ const karan = {
         cloud: ["Docker", "Kubernetes", "CI/CD"]
     },
     currentGoal: "Building scalable cloud-native applications",
-    motto: "Code with logic. Deploy with passion. 🚀"
+    motto: "Code with logic. Deploy with passion. "
 };
 ```
 
 </td>
 <td width="50%">
 
-### 🌟 **Current Focus**
-- 🔥 **Mastering Cloud Architecture** - AWS, Docker, K8s
-- ⚡ **Performance Optimization** - Scaling applications
-- 🛠️ **DevOps Integration** - CI/CD pipelines
-- 📚 **Continuous Learning** - Latest tech trends
-- 🎯 **Open Source Contributions** - Community building
+###  **Current Focus**
+-  **Mastering Cloud Architecture** - AWS, Docker, K8s
+-  **Performance Optimization** - Scaling applications
+-  **DevOps Integration** - CI/CD pipelines
+-  **Continuous Learning** - Latest tech trends
+-  **Open Source Contributions** - Community building
 
 </td>
 </tr>
@@ -59,31 +59,31 @@ const karan = {
 
 <div align="center">
 
-## 🔧 **Technology Arsenal**
+## **Technology Arsenal**
 
 </div>
 
-### **💻 Programming Languages**
+### ** Programming Languages**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,sql" />
 </p>
 
-### **🎨 Frontend Development**
+### ** Frontend Development**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,redux,nextjs,html,css,tailwind,bootstrap" />
 </p>
 
-### **⚙️ Backend & Database**
+### ** Backend & Database**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis,graphql" />
 </p>
 
-### **☁️ DevOps & Cloud**
+### ** DevOps & Cloud**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,nginx,linux,ubuntu" />
 </p>
 
-### **🛠️ Development Tools**
+### ** Development Tools**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm" />
 </p>
@@ -92,7 +92,7 @@ const karan = {
 
 <div align="center">
 
-## 📊 **GitHub Analytics**
+##  **GitHub Analytics**
 
 </div>
 
@@ -109,7 +109,7 @@ const karan = {
 
 <div align="center">
 
-## 🏆 **Achievement Showcase**
+##  **Achievement Showcase**
 
 </div>
 
@@ -121,7 +121,7 @@ const karan = {
 
 <div align="center">
 
-## 🌟 **Featured Projects**
+##  **Featured Projects**
 
 </div>
 
@@ -129,7 +129,7 @@ const karan = {
 <tr>
 <td width="50%">
 
-### 🚀 **Full-Stack Applications**
+###  **Full-Stack Applications**
 - **E-Commerce Platform** - MERN + Stripe Integration
 - **Real-Time Chat App** - Socket.io + JWT Auth
 - **Task Management System** - React + Node.js + MongoDB
@@ -138,7 +138,7 @@ const karan = {
 </td>
 <td width="50%">
 
-### ☁️ **Cloud & DevOps Projects**
+###  **Cloud & DevOps Projects**
 - **Microservices Architecture** - Docker + Kubernetes
 - **CI/CD Pipeline Setup** - Jenkins + GitHub Actions
 - **Cloud Deployment** - AWS EC2 + Load Balancing
@@ -147,22 +147,6 @@ const karan = {
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-
-## 🎵 **When I'm Coding**
-
-</div>
-
-<div align="center">
-
-*"Good code is like good music - it has rhythm, structure, and tells a story"* 🎧
-
-**Currently vibing to:** Lo-fi Hip Hop, Electronic, and Synthwave while coding
-
-</div>
 
 ---
 
@@ -184,25 +168,7 @@ const karan = {
 
 <div align="center">
 
-## 💭 **Developer Wisdom**
-
-</div>
-
-<div align="center">
-
-> *"The best way to predict the future is to invent it."* - **Alan Kay**
-
-> *"Code is like humor. When you have to explain it, it's bad."* - **Cory House**
-
-> *"First, solve the problem. Then, write the code."* - **John Johnson**
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 **Activity Graph**
+## **Activity Graph**
 
 </div>
 
@@ -214,10 +180,10 @@ const karan = {
 
 <div align="center">
 
-### 💙 **Thanks for visiting my profile!**
+###  **Thanks for visiting my profile!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
-**"Building the future, one commit at a time."** 🚀✨
+**"Building the future, one commit at a time."** ✨
 
 </div>
