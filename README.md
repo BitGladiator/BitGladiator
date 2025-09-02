@@ -152,7 +152,7 @@ const karan = {
 
 <div align="center">
 
-## 🤝 **Let's Connect & Collaborate**
+## **Let's Connect & Collaborate**
 
 </div>
 
@@ -184,6 +184,6 @@ const karan = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
-**"Building the future, one commit at a time."** ✨
+**"Building the future, one commit at a time."** 
 
 </div>
