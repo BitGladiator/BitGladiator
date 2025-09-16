@@ -63,27 +63,27 @@ const karan = {
 
 </div>
 
-### ** Programming Languages**
+### **Programming Languages**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,sql" />
 </p>
 
-### ** Frontend Development**
+### **Frontend Development**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,redux,nextjs,html,css,tailwind,bootstrap" />
 </p>
 
-### ** Backend & Database**
+### **Backend & Database**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis,graphql" />
 </p>
 
-### ** DevOps & Cloud**
+### **DevOps & Cloud**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,nginx,linux,ubuntu" />
 </p>
 
-### ** Development Tools**
+### **Development Tools**
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm" />
 </p>
