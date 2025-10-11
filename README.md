@@ -88,7 +88,6 @@ const karan = {
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm" />
 </p>
 
-<!--
 <div align="center">
 
 ##  **GitHub Analytics**
@@ -103,7 +102,7 @@ const karan = {
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=BitGladiator&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </div>
--->
+
 ---
 
 <div align="center">
