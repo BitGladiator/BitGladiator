@@ -119,26 +119,6 @@ const karan = {
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"> GitHub Statistics
-
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BitGladiator&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BitGladiator&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=70a5fd" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitGladiator&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=BitGladiator&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&layout=compact" alt="Wakatime Stats"/>
-</div>
-
----
-
-<div align="center">
-
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px" height="35px"> Achievement Showcase
 
 </div>
@@ -217,7 +197,7 @@ K8s + Prometheus + Grafana
 <div align="center">
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BitGladiator&theme=radical" alt="Repos Per Language"/>
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BitGladiator&theme=radical" alt="Most Commit Language"/>
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BitGladiator&theme=radical&utcOffset=5.5" alt="Productive Time"/>
+ 
 </div>
 
 ---
