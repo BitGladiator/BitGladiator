@@ -123,9 +123,6 @@ const karan = {
 
 </div>
 
-<div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=BitGladiator&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
 
 <br/>
 
